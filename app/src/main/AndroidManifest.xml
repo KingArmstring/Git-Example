@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GitExample">
         <activity android:name=".Feature1Activity"></activity>
+        <activity android:name=".Feature2Activity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
